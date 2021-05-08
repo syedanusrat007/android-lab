@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicApp2</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add_artist">Add Artist</string>
+    <string name="artist_list">Artist List</string>
+    <array name="genres">
+        <item name="pop">Pop</item>
+        <item name="jazz">Jazz</item>
+        <item name="rock">Rock</item>
+        <item name="local">Local</item>
+    </array>
+</resources>
